@@ -26,27 +26,3 @@ Users are directed to a register on opening the website. After the registering, 
 * User can download the files and folders.
 * User can keep their files private or public.
 * Users can also keep the files and floders they are intreseted as favorites for easier access.
-
-### Register Page
-* The user has to register when he uses the website for the first time.He can register with any of his   Email ID.
-
-### Login Page
-* The web application is authenticated and a user must sign in using his username created in Register Page.
-
-### Home Page
-* After login the home page is displayed, where user can see his favorite files and folders.
-
- ### My Files Page
- * In the side navigation bar we can see 'My files', where user can the files and folders uploaded by him.
- 
- ### All Users Page
- * In the side navigation bar we can see 'All users,' where user can see the profiles of other users, using the website.
-
-### Other Users Files
-* In the above page 'All users' clicking on each user we can get the files and folders uploaded by the respective user.
-
-### My Profile Page
-* In the side navigation bar we can see 'My Profile Page', where user can see his profile.
-
-
-
